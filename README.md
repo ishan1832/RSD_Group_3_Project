@@ -1,6 +1,6 @@
-#THE SEVEN WONDERS OF THE WORLD
+# THE SEVEN WONDERS OF THE WORLD
 
-##Responsive Site Design - Semester 1 - Web Dev - Conestoga College
+## Responsive Site Design - Semester 1 - Web Dev - Conestoga College
 
 ## Hello Everyone, We are the Power Rangers !
 
