@@ -1,6 +1,6 @@
-#Responsive Site Design - Semester 1 - Web Dev - Conestoga College
+# Responsive Site Design - Semester 1 - Web Dev - Conestoga College
 
-Members in Group 3: 
+## Members: 
 1. Karan Dhiman
 2. Drashti Patel
 3. Aditi Jha
