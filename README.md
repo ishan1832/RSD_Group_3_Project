@@ -9,6 +9,16 @@
 4. Twinkle Verma
 5. Ishan Patel
 
+## Responsibilities: 
+Page 1: Homepage - Introduction - Karan Dhiman
+Page 2: Wonder 1 - The Colosseum, Rome, Italy - Aditi Jha
+Page 3: Wonder 2 - The Great Wall of China - Ishan Patel
+Page 4: Wonder 3 - The Taj Mahal, India - Twinkle Verma
+Page 5: Wonder 4 - Christ the Redeemer, Brazil - Drashti Patel
+Page 6: Wonder 5 - Machu Picchu, Peru - Drashti Patel
+Page 7: Wonder 6 - Chichen Itzá, Mexico - Ishan Patel
+Page 8: Wonder 7 - Petra, Jordan - Karan Dhiman
+
 ### Languages and Tools used for the Project:
 [<img align="left" alt="VS Code" width="30px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][VS Code]
 [<img align="left" alt="Illustrator" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" />][Illustrator]
