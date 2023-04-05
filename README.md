@@ -1,7 +1,6 @@
 # THE SEVEN WONDERS OF THE WORLD
 
-### Conestoga College  
-### Semester 1  
+### Conestoga College (Semester 1)    
 ### Course    : Web Development  
 ### Subject   : Responsive Site Design   
 ### Group Name: Power Rangers   
