@@ -1,10 +1,12 @@
 # THE SEVEN WONDERS OF THE WORLD
 
-## Responsive Site Design - Semester 1 - Web Dev - Conestoga College
+## Conestoga College  
+## Semester 1  
+## Course    : Web Development  
+## Subject   : Responsive Site Design   
+## Group Name: Power Rangers   
 
-## Hello Everyone, We are the Power Rangers !
-
-### Members in Group 3: 
+### Members in Group 3:  
 1. Karan Dhiman
 2. Drashti Patel
 3. Aditi Jha
